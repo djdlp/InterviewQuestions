@@ -8,6 +8,9 @@
 
 3) Autorelease pools in depth (how to use, bonuses, main pool)
 
+4) Blocks memory management (capturing self)
+
+
 # UIKit
 
 1) What is UIView class?
@@ -29,7 +32,7 @@
 
 3) What is GCD? How GCD works with threads (what problem solves this approach?)?
 
-4) What is NSOperation? Bonuses and Drawbacks
+4) What is NSOperation? Comparision GCD and NSOperation
 
 5) Common GCD patterns (perform long running task and deliver result to UI, many readers/one writer)
 
