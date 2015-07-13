@@ -1,4 +1,13 @@
-#iOS Developer Interview Questions
+# iOS Developer Interview Questions
+
+# General iOS questions
+
+1) Sandbox and folders
+
+2) App states
+
+3) How to works Push Notifications?
+
 
 # Memory management
 
@@ -9,6 +18,10 @@
 3) Autorelease pools in depth (how to use, bonuses, main pool)
 
 4) Blocks memory management (capturing self)
+
+5) Retain cycles
+
+6) Accessors implementations
 
 
 # UIKit
@@ -22,6 +35,8 @@
 4) How to works UITableView (cells creation and caching)?
 
 5) Explain Responder Chain pattern (hit testing)
+
+6) UIViewController lifecycle (including before iOS 6)
 
 
 # Multithreading/Asynchronous 
@@ -64,6 +79,10 @@
 
 4) NSArray internals (Advanced level)
 
+5) Prerequisites for NSdictionary keys
+
+6) Difference between CF and NS dictionaries 
+
 
 # CoreAnimation
 
@@ -76,6 +95,35 @@
 4) Animation types
 
 5) Layer trees
+
+
+# Objective-C
+
+1) Message sending (+ forwarding)
+
+2) Categories/Extensions
+
+3) Class clusters
+
+4) Method swizzling
+
+5) Designated initializer
+
+6) Properties via categories
+
+7) The definition of IBOutlet and IBActions
+
+8) Literals
+
+9) instancetype
+
+10) Atomic and nonatomic properties (+ thread safety)
+
+11) isa pointer
+
+12) KVO/KVC
+
+13) formal and informal protocols
 
 
 # Design patterns
@@ -91,16 +139,5 @@
 5) Decorator
 
 6) Immutable
-
-# Objective-C
-
-1) Message sending (+ forwarding)
-
-2) Categories/Extensions
-
-3) Class clusters
-
-4) Method swizzling
-
 
 
