@@ -1,5 +1,9 @@
 # iOS Developer Interview Questions
 
+Hello!
+My name is Alexey Kretov. I'm iOS developer with more than 4 years of experience.
+Here is the list of the most popular ios interview questions (I don't consider general questions about algorithms and data structures):
+
 # General iOS questions
 
 1) Sandbox and folders
@@ -38,6 +42,8 @@
 
 6) UIViewController lifecycle (including before iOS 6)
 
+7) Autolayout, size classes
+
 
 # Multithreading/Asynchronous 
 
@@ -50,6 +56,8 @@
 4) What is NSOperation? Comparision GCD and NSOperation
 
 5) Common GCD patterns (perform long running task and deliver result to UI, many readers/one writer)
+
+6) NSRunloop (+ async/sync network connections, timers in background thread)
 
 
 # CoreData
@@ -66,7 +74,7 @@
 
 6) Transient properties
 
-7) CoreData vs SQLite (holy war topic)
+7) CoreData vs SQLite (iOS 8 additions)
 
 
 # Collections
@@ -75,7 +83,7 @@
 
 2) NSArray vs NSSet (search, enumerating, internals)
 
-3) Weak pointer collections
+3) Weak pointer collections (general collections memory management)
 
 4) NSArray internals (Advanced level)
 
@@ -97,6 +105,8 @@
 5) Layer trees
 
 6) Implicit/explicit animations
+
+7) Anchor point, position, origin and animation
 
 
 # Objective-C
@@ -128,6 +138,8 @@
 13) Metaclasses
 
 14) Root classes (NSObject, NSProxy)
+
+15) Exceptions and error handling
 
 
 # Design patterns
