@@ -45,7 +45,7 @@
 
 2) Deadlock, livelock (+ examples)
 
-3) What is GCD? How GCD works with threads (what problem solves this approach?)?
+3) What is GCD? How GCD works with threads (what problem solves this approach?)? Barriers, Groups, Sources
 
 4) What is NSOperation? Comparision GCD and NSOperation
 
@@ -88,13 +88,15 @@
 
 1) What's CALayer class?
 
-2) CALayer and UIView interaction
+2) CALayer and UIView interaction (and difference)
 
 3) How to provide the content of the Layer?
 
 4) Animation types
 
 5) Layer trees
+
+6) Implicit/explicit animations
 
 
 # Objective-C
@@ -119,9 +121,13 @@
 
 10) isa pointer
 
-11) KVO/KVC
+11) KVO/KVC (+compilance)
 
-12) formal and informal protocols
+12) Formal and informal protocols
+
+13) Metaclasses
+
+14) Root classes (NSObject, NSProxy)
 
 
 # Design patterns
