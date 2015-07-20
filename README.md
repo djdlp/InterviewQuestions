@@ -111,19 +111,17 @@
 
 6) Properties via categories
 
-7) The definition of IBOutlet and IBActions
+7) Literals
 
-8) Literals
+8) instancetype
 
-9) instancetype
+9) Atomic and nonatomic properties (+ thread safety)
 
-10) Atomic and nonatomic properties (+ thread safety)
+10) isa pointer
 
-11) isa pointer
+11) KVO/KVC
 
-12) KVO/KVC
-
-13) formal and informal protocols
+12) formal and informal protocols
 
 
 # Design patterns
