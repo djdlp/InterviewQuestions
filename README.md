@@ -1,7 +1,7 @@
 # iOS Developer Interview Questions
 
 Hello!
-My name is [Alexey Kretov](https://docs.google.com/document/d/10M2l5DNeIN5sGYWEUpKiy7iu3KZXZwMCudpHR9BxA-E/edit).
+My name is [Alex Kretov](https://docs.google.com/document/d/10M2l5DNeIN5sGYWEUpKiy7iu3KZXZwMCudpHR9BxA-E/edit).
 
 I'm iOS developer with more than 4 years of experience.
 Here is the list of the most popular ios interview questions (I don't consider general questions about algorithms and data structures):
