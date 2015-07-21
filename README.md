@@ -12,6 +12,8 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 3) How to works Push Notifications?
 
+4) How to run app in background?
+
 
 # Memory management
 
@@ -25,12 +27,12 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 5) Retain cycles
 
-6) Accessors implementations
+6) Accessors implementations (MRC)
 
 
 # UIKit
 
-1) What is UIView class?
+1) What is UIView class? UIWindow?
 
 2) What is the difference between frame and bounds?
 
@@ -51,7 +53,7 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 2) Deadlock, livelock (+ examples)
 
-3) What is GCD? How GCD works with threads (what problem solves this approach?)? Barriers, Groups, Sources
+3) What is GCD? How GCD works with threads (what problem solves this approach?)? Barriers, Groups, Sources, Target queues
 
 4) What is NSOperation? Comparision GCD and NSOperation
 
@@ -64,17 +66,25 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 1) Explain CoreData Stack (object, context, coordinator, model)
 
-2) CoreData and multithreading
+2) Parent-child contexts
 
-3) Faulting, uniquiness 
+3) CoreData and multithreading
 
-4) Delete rules
+4) Faulting, uniquiness 
 
-5) Transformable properties
+5) Delete rules
 
-6) Transient properties
+6) Transformable properties
 
-7) CoreData vs SQLite (iOS 8 additions)
+7) Transient properties
+
+8) CoreData vs SQLite (iOS 8 additions)
+
+9) Passing managed objects between threads
+
+10) Customization NSFetchRequest (offset, limit, predicate, attributes, etc)
+
+11) dynamic keyword
 
 
 # Collections
@@ -119,7 +129,7 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 4) Method swizzling
 
-5) Designated initializer
+5) Designated initializer, subclassing
 
 6) Properties via categories
 
@@ -146,11 +156,11 @@ Here is the list of the most popular ios interview questions (I don't consider g
 
 1) MVC (passive/active)
 
-2) Singleton
+2) Singleton (standard implementation
 
-3) Delegate
+3) Delegate (examples - UITableView, UICollectionView, UIScrollView, etc)
 
-4) Observer
+4) Observer (KVO, Notifications)
 
 5) Decorator
 
