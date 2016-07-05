@@ -1,11 +1,5 @@
 # iOS Developer Interview Questions
 
-Hello!
-My name is [Alex Kretov](https://docs.google.com/document/d/10M2l5DNeIN5sGYWEUpKiy7iu3KZXZwMCudpHR9BxA-E/edit).
-
-I'm iOS developer with more than 4 years of experience.
-Here is the list of the most popular ios interview questions (I don't consider general questions about algorithms and data structures):
-
 # General iOS questions
 
 1) Sandbox and folders
@@ -22,6 +16,7 @@ Here is the list of the most popular ios interview questions (I don't consider g
 4) Blocks memory management (capturing self)
 5) Retain cycles
 6) Accessors implementations (MRC)
+7) CF and NS bridging
 
 
 # UIKit
@@ -99,6 +94,7 @@ Here is the list of the most popular ios interview questions (I don't consider g
 14) Root classes (NSObject, NSProxy)
 15) Exceptions and error handling
 16) Equality and Identity
+
 
 # Design patterns
 
