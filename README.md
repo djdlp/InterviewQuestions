@@ -17,10 +17,15 @@
 1) MRC (retain, release, copy, autorelease, properties)
 
 2) ARC (essentials, bonuses, pitfals)
+
 3) Autorelease pools in depth (how to use, bonuses, main pool)
+
 4) Blocks memory management (capturing self)
+
 5) Retain cycles
+
 6) Accessors implementations (MRC)
+
 7) CF and NS bridging
 
 
@@ -44,10 +49,15 @@
 # Multithreading/Asynchronous 
 
 1) What approaches do you know?
+
 2) Deadlock, livelock (+ examples)
+
 3) What is GCD? How GCD works with threads (what problem solves this approach?)? Barriers, Groups, Sources, Target queues
+
 4) What is NSOperation? Comparision GCD and NSOperation
+
 5) Common GCD patterns (perform long running task and deliver result to UI, many readers/one writer)
+
 6) NSRunloop (+ async/sync network connections, timers in background thread)
 
 
@@ -94,11 +104,17 @@
 # CoreAnimation
 
 1) What's CALayer class?
+
 2) CALayer and UIView interaction (and difference)
+
 3) How to provide the content of the Layer?
+
 4) Animation types
+
 5) Layer trees
+
 6) Implicit/explicit animations
+
 7) Anchor point, position, origin and animation
 
 
