@@ -10,6 +10,7 @@
 
 4) How to run app in background?
 
+5) Objective-C and Swift comparision
 
 
 # Memory management
@@ -18,9 +19,9 @@
 
 2) ARC (essentials, bonuses, pitfals)
 
-3) Autorelease pools in depth (how to use, bonuses, main pool)
+3) Autorelease pools in depth (how to use, +/-, main thread pool)
 
-4) Blocks memory management (capturing self)
+4) Blocks memory management (capturing)
 
 5) Retain cycles
 
@@ -39,20 +40,22 @@
 
 4) How to works UITableView (cells creation and caching)?
 
-5) Explain Responder Chain pattern (hit testing)
+5) Hit testing
 
-6) UIViewController lifecycle (including before iOS 6)
+6) UIViewController lifecycle
 
 7) Autolayout, size classes
+
+8) Main thread and UIKit
 
 
 # Multithreading/Asynchronous 
 
 1) What approaches do you know?
 
-2) Deadlock, livelock (+ examples)
+2) Deadlock, livelock
 
-3) What is GCD? How GCD works with threads (what problem solves this approach?)? Barriers, Groups, Sources, Target queues
+3) GCD (Barriers, Groups, Sources, Target queues, Threads)
 
 4) What is NSOperation? Comparision GCD and NSOperation
 
